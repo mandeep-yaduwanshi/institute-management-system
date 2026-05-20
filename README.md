@@ -120,8 +120,8 @@ This feature uses **LangChain** and **RAG (Retrieval-Augmented Generation)** to 
 
 **Mandeep Yaduwanshi**
 - 📧 mandeepyaduwanshi5@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mandeep-yaduwanshi-830781214/e)
+- 🐙 [GitHub](https://github.com/mandeep-yaduwanshi/institute-management-system)
 
 ---
 
