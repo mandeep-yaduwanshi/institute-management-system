@@ -45,7 +45,7 @@ import json
 load_dotenv()
 
 db = SQLDatabase.from_uri(
-    "postgresql://postgres:Ayushsql@localhost:5433/institutemanagementsystem"
+    "postgresql://postgres:12345@localhost:5432/institutemanagementsystem"
 )
 
 def generate_ai_chat(body):
